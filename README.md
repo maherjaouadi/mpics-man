@@ -12,9 +12,7 @@ Dépôt de collaboration Estya MPICS
 
     <h1 style="color: pink">Introduction à DevOps</h1>  
 
-    <p><a href="./index.html">Retour</a></p>
-    <p>Bla bla bla bla bla bla bla bla bla</p>
-<p>Bla bla bla bla bla bla bla bla bla</p>
+    <p><a href="./index.html">Retour</a></p><p>Bla ba bla bla bla bla bla bla bla</p>
 <p>Bla bla bla bla bla bla bla bla bla</p>
 <p>Bla bla bla bla bla bla bla bla bla</p>
   </body>
